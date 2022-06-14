@@ -1,2 +1,1 @@
-cd /home/kiray/verilog_tests
-ls -lrt
+cat ~/tmp1
