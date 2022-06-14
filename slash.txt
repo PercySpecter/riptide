@@ -1,1 +1,1 @@
-cat ~/.cshrc
+cat ~/wavefile.json
