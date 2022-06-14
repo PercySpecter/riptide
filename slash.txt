@@ -1,1 +1,1 @@
-cat ~/tmp1
+cat ~/.cshrc
