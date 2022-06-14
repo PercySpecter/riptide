@@ -1,1 +1,1 @@
-cat ~/wavefile.json
+cat ~/failed_tests/wavefile.json
