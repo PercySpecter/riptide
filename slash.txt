@@ -1,1 +1,1 @@
-cat buildlogs
+~/s/simstats.sh ~/tmp2
