@@ -1,1 +1,1 @@
-~/s/simstats.sh ~/tmp2
+finduser Sayak
