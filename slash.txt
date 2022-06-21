@@ -1,1 +1,1 @@
-finduser Sayak
+p4 users | grep "Sayak"
