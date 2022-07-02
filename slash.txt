@@ -1,1 +1,1 @@
-finduser Kinjal
+cat verilog_tests/perf_design_stats/simstats_lgt_latemerge.txt
