@@ -1,2 +1,2 @@
-ls verilog_tests/
-ls verilog_tests/perf_*
+ls verilog_tests/sim_tests
+ls verilog_tests/sim_tests/perf_*
