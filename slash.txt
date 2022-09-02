@@ -1,3 +1,3 @@
-cat /home/kiray/Clients/ptrVSoffset_tests/tests_nda/ARM/CHRISTENSEN/results/test10002.transcript
+#cat /home/kiray/Clients/ptrVSoffset_tests/tests_nda/ARM/CHRISTENSEN/results/test10002.transcript
 cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.transcript
 #ls
