@@ -1,4 +1,5 @@
 #cat /home/kiray/Clients/ptrVSoffset_tests/tests_nda/ARM/CHRISTENSEN/results/test10002.transcript
+ls /bata/kiray/tests_customers/CHRISTENSEN/results
 cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.transcript
 #ls
 
