@@ -3,5 +3,8 @@
 #cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.vopt.log
 #cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.transcript
 #ls
-cat /home/kiray/Clients/lgt_2/src/vlog/vlOptLGT.c
+#cat /home/kiray/Clients/lgt_2/src/vlog/vlOptLGT.c
 
+ls | grep LGT
+
+ls /bata/kiray/perf_designs/perf/designs/
