@@ -6,5 +6,5 @@
 #cat /home/kiray/Clients/lgt_2/src/vlog/vlOptLGT.c
 
 #ls | grep LGT
-ls /bata/kiray
+ls /bata/kiray/microchip
 #ls /bata/kiray/perf_designs/perf/designs/
