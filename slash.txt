@@ -5,6 +5,6 @@
 #ls
 #cat /home/kiray/Clients/lgt_2/src/vlog/vlOptLGT.c
 
-ls | grep LGT
-
-ls /bata/kiray/perf_designs/perf/designs/
+#ls | grep LGT
+ls /bata/kiray
+#ls /bata/kiray/perf_designs/perf/designs/
