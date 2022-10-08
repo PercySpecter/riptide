@@ -5,6 +5,6 @@
 #ls
 #cat /home/kiray/Clients/lgt_2/src/vlog/vlOptLGT.c
 
-ls | grep LGT
+#ls | grep LGT
 #cat /bata/kiray/microchip/full_tte_testcase_to_mentor_jun22/qrun.log
-#ls /bata/kiray/perf_designs/perf/designs/
+ls /bata/kiray/perf_designs/perf/designs/
