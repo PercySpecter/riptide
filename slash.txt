@@ -2,7 +2,7 @@
 #ls /bata/kiray/tests_customers/CHRISTENSEN/results
 #cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.vopt.log
 #cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.transcript
-ls /home/kiray/Clients | grep lgt
+cat /home/kiray/Clients/mainline/src/vsim/lgt_kernel.c
 #cat /home/kiray/Clients/lgt_2/src/vlog/vlOptLGT.c
 
 #cat /home/kiray/Clients/main_tests/tests_nda/ARM/CHRISTENSEN/results/test10002.transcript
