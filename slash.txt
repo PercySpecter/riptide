@@ -2,7 +2,7 @@
 #ls /bata/kiray/tests_customers/CHRISTENSEN/results
 #cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.vopt.log
 #cat /bata/kiray/tests_customers/CHRISTENSEN/results/test10002.transcript
-cd /home/kiray/Clients/clean_bld_2/src; cat vsim/vprim.c
+#cd /home/kiray/Clients/clean_bld_2/src; cat vsim/vprim.c
 #cat /home/kiray/Clients/lgt_2/src/vlog/vlOptLGT.c
 
 #cat /home/kiray/Clients/main_tests/tests_nda/ARM/CHRISTENSEN/results/test10002.transcript
